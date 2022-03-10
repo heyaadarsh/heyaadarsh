@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Aadarsh Giri
 - 👀 I’m interested in Web Development, Open Source Contribution & Entrepreneurship.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on (Nothing).
 - 📫 Reach me: Instagram @aadarshyati
 
 <!---
