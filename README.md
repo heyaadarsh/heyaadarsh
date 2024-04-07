@@ -1,7 +1,7 @@
 # 💫About Me :
 👋 Hi, I’m Aadarsh Giri <br>
-👀 I’m interested in Web & App Development, Open Source Contribution and Cyber Security. <br>
-🌱 I’m currently learning C++ & JavaScript. <br>
+👀 I’m interested in Web Development, Open Source Contribution and Cyber Security. <br>
+🌱 I’m currently learning DSA in Java. <br>
 ⚡ Fun fact: You can call me an entrepreneur too 😉 
 
 ## 🌐Socials
